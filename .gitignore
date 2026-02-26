@@ -1,0 +1,38 @@
+# Unreal Engine Typical Ignores
+
+# VS
+PrideBattle/.vs/
+PrideBattle/*.sln
+PrideBattle/*.suo
+PrideBattle/*.opensdf
+PrideBattle/*.sdf
+PrideBattle/*.VC.db
+PrideBattle/*.VC.opendb
+PrideBattle/.vsconfig
+
+# IDE user settings
+PrideBattle/*.user
+PrideBattle/*.userossc
+PrideBattle/*.sublime-workspace
+PrideBattle/*.sublime-project
+
+# Compiled/Binary files etc.
+PrideBattle/Binaries/*
+PrideBattle/Plugins/**/Binaries/*
+PrideBattle/Build/*
+PrideBattle/Intermediate/*
+PrideBattle/Saved/*
+PrideBattle/DerivedDataCache/*
+PrideBattle/Autosaves/
+PrideBattle/Config/DefaultEditor.ini
+PrideBattle/Config/DefaultEditorUserSettings.ini
+PrideBattle/Config/DefaultEditorPerProjectUserSettings.ini
+
+# Assets
+PrideBattle/Content/StarterContent/
+PrideBattle/Content/Fab/
+PrideBattle/Content/ExampleContent/
+PrideBattle/Content/BurnWithPride/Mesh/
+PrideBattle/Content/BurnWithPride/Sound/
+PrideBattle/Content/BurnWithPride/Texture/
+PrideBattle/Content/Test/
